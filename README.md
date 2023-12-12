@@ -4,7 +4,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Feilong(Chris)Qiu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/feilong-qiu-9768871b0/) [![Gmail Badge](https://img.shields.io/badge/-chrisqiu22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=chrisqiu22@gmail.com)](mailto:chrisqiu22@gmail.com)
 
-
 ## ABOUT ME! 😃
 I am Feilong! Some of you known me as **Chris** ✌️. 
 - ❤️ I am 4th year student study at the **University Of Toronto**(UTSC Campus), expect to graduate in 2024 Fall.
