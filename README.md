@@ -6,8 +6,8 @@
 
 ## ABOUT ME! 😃
 I am Feilong! Some of you known me as **Chris** ✌️. 
-- ❤️ I am 4th year student study at the **University Of Toronto**(UTSC Campus), expect to graduate in 2024 Fall.
-- 🌱 I am still fighting for my bachelor's degree in Computer Science, Specialist in Software Engineering Stream.
+- ❤️ I am New Grad student study at the **University Of Toronto**(UTSC Campus).
+- 🌱 Bachelor's degree in Computer Science, Specialist in Software Engineering Stream.
 - 😄 I am passionate about Web Development✨. 
 
 ## Hello World!! 🤔
