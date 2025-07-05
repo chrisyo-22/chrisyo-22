@@ -18,24 +18,24 @@ I am Feilong! Some of you known me as **Chris** ✌️.
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <img title="Javascript" style="height: 25px; width: 25px;" src="https://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/javascript.svg">
+  <img title="React" style="height: 25px; width: 25px;" src="https://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/react-original.svg">
+  <img title="HTML5" style="height: 25px; width: 25px;" src="https://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/html5.svg">
+  <img title="CSS" style="height: 25px; width: 25px;" src="https://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/css.svg">
+  <img title="C" style="height: 25px; width: 25px;" src="https://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/c.svg">
+  <img title="C#" style="height: 25px; width: 25px;" src="https://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/cSharp.svg">
+  <img title="Python" style="height: 25px; width: 25px;" src="https://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/python-original.svg">
+  <img title="Gulp" style="height: 25px; width: 25px;" src="https://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/gulp.svg">
+  <img title="Redux" style="height: 25px; width: 25px;" src="https://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/redux.svg">
+  <img title="Git" style="height: 25px; width: 25px;" src="https://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/git-original.svg">
+  <img title="PostgreSQL" style="height: 25px; width: 25px;" src="https://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/postgresql.svg">
+  <img title="Java" style="height: 25px; width: 25px;" src="https://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/java-original.svg">
+  <img title="GitHub" style="height: 25px; width: 25px;" src="https://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/github.svg">
+  <img title="npm" style="height: 25px; width: 25px;" src="https://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/npm.svg">
+  <img title="Flask" style="height: 25px; width: 25px;" src="https://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/flask.png">
+  <img title="Visual Studio Code" style="height: 25px; width: 25px;" src="https://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/vscode.png">
+  <img title="Microsoft Visual Studio" style="height: 25px; width: 25px;://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/visualstudio.png">
+  <img title="Problem Solving" style="height: 25px; width: 25px;" src="https://raw.githubusercontent.com/chrisyo-22/chrisyo-22/main/images/problemSolving.png">
 </p>
 <hr>
 
